@@ -56,11 +56,13 @@ section{
 }
 
 #full-stack{
+    overflow:Scroll;
     border-left: 7px solid;
     border-image: linear-gradient(rgb(43, 28, 177), rgb(235, 15, 15));
     border-image-slice: 1;
 }
 #baby-web{
+    overflow:Scroll;
     border-left: 7px solid;
     border-image: linear-gradient(rgb(207, 109, 16), rgb(11, 194, 81));
     border-image-slice: 1;
